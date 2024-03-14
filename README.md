@@ -21,7 +21,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 ### Links
 
 - Solution URL: [GitHub](https://github.com/chkg2a/FRMentor-Four-Cards)
-- Live Site URL: [Netlify Live Preview](https://chk-four-card.netlify.app/)
+- Live Site URL: [Netlify Live Preview](https://chk-four-cards.netlify.app/)
 
 ## My process
 
